@@ -84,7 +84,8 @@ Model Prediction
 Model Evaluation
       ↓
 R² & Adjusted R²
-Technologies Used
+```
+## Technologies Used
 Python
 Pandas
 NumPy
@@ -92,7 +93,8 @@ Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
-Conclusion
+
+## Conclusion
 A Linear Regression model was developed to predict Ford car prices using features such as model, year, mileage, transmission, fuel type, tax, MPG, and engine size.
 The model achieved approximately 73% R² and Adjusted R², showing that the selected features provide a reasonable ability to explain variations in Ford car prices.
 This project helped build an understanding of regression-based machine learning, categorical feature encoding, model evaluation, and interpreting R²-based performance metrics.

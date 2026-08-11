@@ -64,7 +64,8 @@ Save Model & Preprocessing Objects
 Streamlit Application
   ↓
 User Input → Prediction
-Streamlit Application
+```
+## Streamlit Application
 
 The trained model was integrated into a Streamlit application.
 
@@ -72,7 +73,9 @@ The application allows users to enter the required health-related features and g
 
 ⚠️ High Risk of Heart Disease
 ✅ Low Risk of Heart Disease
-Technologies Used
+
+## Technologies Used
+
 Python
 Pandas
 NumPy
@@ -82,7 +85,10 @@ Scikit-learn
 Joblib
 Streamlit
 Jupyter Notebook
-Project Structure
+
+## Project Structure
+
+```text
 heart-disease-prediction/
 │
 ├── app.py
@@ -92,9 +98,10 @@ heart-disease-prediction/
 ├── README.md
 └── heart.ipynb
 ├── heart.csv
+```
 
+## How to Run the Application
 
-How to Run the Application
 1. Install the required libraries
 python -m pip install streamlit pandas scikit-learn joblib
 2. Run the Streamlit application
@@ -102,7 +109,7 @@ python -m streamlit run app.py
 
 The application will open in your browser.
 
-Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end machine learning workflow, from preprocessing and model training to deploying the trained model as an interactive Streamlit application.
 
