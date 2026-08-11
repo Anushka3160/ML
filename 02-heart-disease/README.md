@@ -76,15 +76,15 @@ The application allows users to enter the required health-related features and g
 
 ## Technologies Used
 
--Pandas
--Python
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
--Joblib
--Streamlit
--Jupyter Notebook
+- Pandas
+- Python
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+- Streamlit
+- Jupyter Notebook
 
 ## Project Structure
 
