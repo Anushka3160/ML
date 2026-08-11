@@ -76,15 +76,15 @@ The application allows users to enter the required health-related features and g
 
 ## Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Joblib
-Streamlit
-Jupyter Notebook
+-Pandas
+-Python
+-NumPy
+-Matplotlib
+-Seaborn
+-Scikit-learn
+-Joblib
+-Streamlit
+-Jupyter Notebook
 
 ## Project Structure
 
@@ -119,4 +119,4 @@ This project demonstrates an end-to-end machine learning workflow, from preproce
 
 The project helped me understand how a trained machine learning model can be integrated into a user-facing application rather than being limited to a Jupyter Notebook.
 
-**Disclaimer: This application is developed for educational purposes only and is not intended to provide medical diagnosis or medical advice.**
+**Disclaimer: This application is developed for educational purposes only and is not intended to provide medical diagnosis or medical advice.**-

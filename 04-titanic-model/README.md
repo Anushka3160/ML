@@ -69,8 +69,14 @@ h. Evaluate model performance
 i. Compare model results   j. Select the best-performing model.
 
 ## Technologies Used
-defaults:
-python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
+
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Scikit-learn
+-Jupyter Notebook.
 
 ## Conclusion
 the support vector machine (SVM) achieved the highest test accuracy of **82%**, followed by logistic regression with **80%**.
