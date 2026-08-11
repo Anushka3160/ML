@@ -103,9 +103,13 @@ heart-disease-prediction/
 ## How to Run the Application
 
 1. Install the required libraries
+```python
 python -m pip install streamlit pandas scikit-learn joblib
+```
 2. Run the Streamlit application
+```python
 python -m streamlit run app.py
+```
 
 The application will open in your browser.
 
