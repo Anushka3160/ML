@@ -61,10 +61,10 @@ The model was evaluated using:
 |---|---:|
 | R² Score | ~73% |
 | Adjusted R² Score | ~73% |
-```text
+
 The model achieved an R² score of approximately **73%**, meaning that the model explains around 73% of the variation in Ford car prices based on the features provided.
 The Adjusted R² score was also approximately **73%**, indicating a similar level of explanatory power after accounting for the number of predictors in the model.
-```
+
 
 ## Project Workflow
 
